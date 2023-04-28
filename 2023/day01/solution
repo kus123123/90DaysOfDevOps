@@ -1,0 +1,27 @@
+solution
+https://devops121.hashnode.dev/day-1-of-trainwith-shubham-repo
+Hello everyone, I am a student of Galgotias University pursuing Mca in cloud computing.
+
+I am a huge enthusiast of automation in iT. I started learning open source DevOps as it provides the best way to automate software lifecycle.
+
+DevOps is not a technology. it is a methodology that provides the company to break barriers between development and testing .
+
+Though it contains various tools to automate but at the basic root level devops is the integration of people involved in software development, breaking silos, and creating a product that is better, powerful and robust .
+Automation:
+
+Automation is a key aspect of DevOps, as it helps teams to improve efficiency, reduce errors, and streamline processes. In DevOps, automation can be applied to various stages of the software development lifecycle,
+
+pulling code from github
+
+building code
+
+testing Code
+
+including continuous integration
+
+continuous delivery
+
+and continuous deployment.
+Scaling :
+
+Scaling in DevOps refers to the ability to efficiently manage an application or system as it grows in size, complexity, and usage. It involves designing and implementing processes and technologies that allow for rapid deployment, high availability, and fault tolerance to ensure that the system can handle increased load and demand.
