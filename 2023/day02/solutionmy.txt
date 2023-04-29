@@ -1,0 +1,46 @@
+ls -command
+
+ls command list all file in the working directory
+
+    ls -l -list file and directory and its info
+
+drwxrwxr-x 2 kush kush 4096 Apr 26 12:47 1
+
+    ls -al -list all files and directory including hidden files
+
+drwxr-xr-x 3 root root 4096 Apr 7 00:51 ..
+
+    ls -r -list file and folder in reverse order without info
+
+    ls -lh -list details of files and folders including memmoery in human readable format(it also gives the total used size of folder)
+
+drwxrwxr-x 2 kush kush 4.0K Apr 26 12:47 1
+
+You can use all these ls option in combination or seprately .
+mkdir command
+
+mkdir command is used to create directory or directories
+
+    mkdir dir1 -creates a directory in current directory
+
+    mkdir /home/kush/documents newdir -creates a new directory in documents . there is no need to be present in documents to make a directory
+
+    mkdir -p dir1/dir2/dir3 -nested directory
+
+cd command
+
+cd command stand for change directory
+
+    cd -goes to home directory from anywhere
+
+    cd .. - goes back to previous directory
+
+    cd ../.. -2 direcory back
+
+    cd absoulute path - can go to that directory
+
+    cd ./ --starting from current directory
+
+These are some basic commands and thier uses.
+
+You can connect me on likendn with
